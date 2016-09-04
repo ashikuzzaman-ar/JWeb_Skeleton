@@ -9,8 +9,11 @@
        http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd">
        
        
-<!--    <bean id="" class="">
-        <property name=""></property>
-    </bean>-->
-
+    <bean id="userInformation" class="com.studevs.models.UserInformation" scope="prototype">
+    </bean>
+    
+    <bean id="userInformationProvider" class="com.studevs.models.providers.UserInformationProvider">
+    </bean>
+    
+    
 </beans>
