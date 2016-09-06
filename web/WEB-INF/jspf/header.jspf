@@ -18,13 +18,13 @@
         <script type="text/javascript" src="js/script.js"></script>
 
 
-        <title>Welcome to Rahul's Photography</title>
+        <title>StuDevs</title>
     </head>
 
     <body>
 
-    <nav>
-        <div>
-            <h1>Header will be described here.....</h1>
-        </div>
-    </nav>
+        <nav>
+            <div>
+                <h1>Header will be described here.....</h1>
+            </div>
+        </nav>
